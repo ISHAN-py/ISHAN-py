@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ISHAN-py
+- Engineering student at IIT Patna
 - 👀 I’m interested in web dev, ml, ai, python, javascript, css, React, JAVA, MERN, and whatever seems cool.
 - 🌱 Let's talk ishan_2501ct05@iitp.ac.in
 
